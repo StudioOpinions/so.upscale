@@ -1,2 +1,6 @@
 gradio==4.18.0
-prance
+diffusers
+transformers
+accelerate
+torch
+Pillow
