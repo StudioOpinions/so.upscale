@@ -3,7 +3,7 @@ title: Clarity Upscaler
 emoji: 🦀
 colorFrom: green
 colorTo: red
-sdk: docker
+sdk: gradio
 pinned: false
 ---
 
